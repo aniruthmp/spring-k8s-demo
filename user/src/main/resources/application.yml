@@ -3,4 +3,4 @@ spring:
     name: user-service
 eureka:
   client:
-    enabled: false
+    enabled: true
